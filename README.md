@@ -1,5 +1,5 @@
 ### Hi there 👋
-# To improve is to change
+# To improve is to chang
 <!--
 **MoMoneyy26/MoMoneyy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
